@@ -16,14 +16,14 @@ Environment | pip | conda|
 
 ```python
 # Supervised Classification
-# .fit and .predict
+# .fit(X,r) and .predict(X)
 import Adaboost 
 import BootstrapAggregator
 import LogisticRegression 
 import MLP
 import MulticlassGaussian
 import RandomForest
-import SVm
+import SVM
 
 # Unsupervised
 from K-means import kmeans
