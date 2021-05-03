@@ -26,8 +26,8 @@ import RandomForest
 import SVM
 
 # Unsupervised
-from K-means import kmeans
-from PCA import PCA
+import kmeans
+import PCA
 ```
 
 ## License
